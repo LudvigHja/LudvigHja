@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello world!
+
+Been doing coding and AI/ML for ≈15 years, still earning.
 
 <!--
 **LudvigHja/LudvigHja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
