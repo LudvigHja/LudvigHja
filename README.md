@@ -1,5 +1,5 @@
-## Hello world!
+## Hello world! 😎
 
-Been doing coding and AI/ML for ≈15 years, still learning.
+I'm Ludvig, and I've been playing around with coding and AI/ML for ≈15 years, still learning…
 
 
